@@ -1,5 +1,10 @@
 # E-Wallet
 
+## Execution:
+-------------
+- C   - execute using TurboC++
+- C++ - Dev C++ or any other IDE
+
 ## OPERATIONS:
   - Bank Services
   - Bill Payments
