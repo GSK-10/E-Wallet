@@ -7,5 +7,23 @@
   - Change Pin
 
 ## IMAGES:
-![image](https://github.com/GSK-10/E-Wallet/assets/108480564/c07968e6-f0f1-4a72-b65c-85587f8a8006)
 
+### Main Menu:
+<p align="center">
+  <img alt="main_image" width="370" src="https://github.com/GSK-10/E-Wallet/blob/master/images/main_image.png">
+</p>
+
+### Bank Services:
+<p align="center">
+  <img alt="main_image" width="370" src="https://github.com/GSK-10/E-Wallet/blob/master/images/bank_services.png">
+</p>
+
+### Bill Payments:
+<p align="center">
+  <img alt="main_image" width="370" src="https://github.com/GSK-10/E-Wallet/blob/master/images/bill_payments.png">
+</p>
+
+### Money Transfer:
+<p align="center">
+  <img alt="main_image" width="370" src="https://github.com/GSK-10/E-Wallet/blob/master/images/money_transfer.png">
+</p>
